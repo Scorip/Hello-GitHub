@@ -1,0 +1,9 @@
+D:\netcore\HelloCore\StringLibray\bin\Debug\netstandard2.0\UtilityLibraries.deps.json
+D:\netcore\HelloCore\StringLibray\bin\Debug\netstandard2.0\UtilityLibraries.dll
+D:\netcore\HelloCore\StringLibray\bin\Debug\netstandard2.0\UtilityLibraries.pdb
+D:\netcore\HelloCore\StringLibray\obj\Debug\netstandard2.0\UtilityLibraries.csprojAssemblyReference.cache
+D:\netcore\HelloCore\StringLibray\obj\Debug\netstandard2.0\UtilityLibraries.csproj.CoreCompileInputs.cache
+D:\netcore\HelloCore\StringLibray\obj\Debug\netstandard2.0\UtilityLibraries.AssemblyInfoInputs.cache
+D:\netcore\HelloCore\StringLibray\obj\Debug\netstandard2.0\UtilityLibraries.AssemblyInfo.cs
+D:\netcore\HelloCore\StringLibray\obj\Debug\netstandard2.0\UtilityLibraries.dll
+D:\netcore\HelloCore\StringLibray\obj\Debug\netstandard2.0\UtilityLibraries.pdb
